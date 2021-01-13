@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NeHotFixDemo</string>
+
+    <string name="fix_bug">加载补丁</string>
+    <string name="show_tip">显示提示信息</string>
+    <string name="fix_unload_patch">卸载补丁</string>
+</resources>
